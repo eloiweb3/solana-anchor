@@ -1,1 +1,13 @@
-<img width="1183" alt="image" src="https://github.com/user-attachments/assets/46853125-1157-47fd-ab4a-c953dc3f1c0d">
+
+### Summary
+
+- This is final project form [Rise in](https://www.risein.com/) school, which provides a bridge course to [Turbin3 Solana Bootcamp](https://turbin3.com/solana-bootcamp/) 😎.
+
+Exercice [Tx Link](https://explorer.solana.com/tx/4v1cF1vwFagdnAqPhKfni9RTY6NKb9JuaTh5TKAp7aeZFjAGWvS4PAuYPwBHE8Mts7t2KUhCee8Z1WUhpKCGeyaM?cluster=devnet)
+
+
+- This project contains 4 relevant files: 
+    1. keygen.ts - used to generate a new keypair for the program. ```yarn keygen```
+    2. airdrop.ts - used to airdrop tokens to a specified address. ```yarn airdrop```
+    3. transfer.ts - used to transfer tokens from one address to another. ```yarn transfer```
+    4. enroll.ts - used to enroll a new user in the program. ```yarn enroll```
