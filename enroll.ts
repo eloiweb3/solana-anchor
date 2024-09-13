@@ -13,7 +13,7 @@ const provider = new AnchorProvider(connection, new Wallet(keypair), {
   commitment: "confirmed",
 });
 
-const program: Program<Idl> = new Program(IDL, provider);
+const program: Program<WbaPrereq> = new Program(IDL, provider);
 
 const enrollment_seeds = [Buffer.from("prereq"), keypair.publicKey.toBuffer()];
 const [enrollment_key, _bump] = PublicKey.findProgramAddressSync(
