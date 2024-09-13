@@ -1,7 +1,7 @@
 
 ### Summary
 
-- This is final project form [Rise in](https://www.risein.com/) school, which provides a bridge course to [Turbin3 Solana Bootcamp](https://turbin3.com/solana-bootcamp/) 😎.
+- This is the final project for Bridge course to [Turbin3 Solana Bootcamp](https://turbin3.com/solana-bootcamp/) from [Rise in](https://www.risein.com/) school 😎.
 
 Exercice [Tx Link](https://explorer.solana.com/tx/4v1cF1vwFagdnAqPhKfni9RTY6NKb9JuaTh5TKAp7aeZFjAGWvS4PAuYPwBHE8Mts7t2KUhCee8Z1WUhpKCGeyaM?cluster=devnet)
 
